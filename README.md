@@ -1,5 +1,5 @@
 [![MasterHead](https://i1.wp.com/www.gifcen.com/wp-content/uploads/2022/07/discord-banner-gif-5.gif?strip=all)](https://shivah12.io)
-<<h1 align="center">Hi 👋, I'm Shreeti Mohapatra</h1>
+<h1 align="center">Hi 👋, I'm Shreeti Mohapatra</h1>
 <h3 align="center">A passionate Frontend Web developer & UI/UX Designer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1920348/screenshots/4332641/shot09.gif">
 
