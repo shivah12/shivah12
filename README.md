@@ -1,7 +1,7 @@
 [![MasterHead](https://i1.wp.com/www.gifcen.com/wp-content/uploads/2022/07/discord-banner-gif-5.gif?strip=all)](https://shivah12.io)
 <h1 align="center">Hi 👋, I'm Shreeti Mohapatra</h1>
 <h3 align="center">A passionate Frontend Web developer & UI/UX Designer from India</h3>
-<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/L8K62iTDkzGX6/giphy.gif" border-radius=45px>
+<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/L8K62iTDkzGX6/giphy.gif" >
 
 - 🌱 I’m currently learning **MERN Stack, Data Structures**
 
