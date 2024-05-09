@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am a sophomore at VSSUT, Burla, pursuing B.Tech. in Information Technology. <br><br>Focusing on upskilling myself with the latest technology advancements, I am dedicated to continuous learning.<br><br>Proficient in MERN stack development, I specialize in building scalable and robust solutions. Additionally, I am passionate about UI/UX designing and excel at crafting intuitive user experiences for both web and mobile applications.<br><br>Currently, I am actively exploring Data Structures and Algorithms to enhance my problem-solving skills and deepen my understanding of CS fundamentals.<br><br>Eager to engage in collaborations and open-source contributions, I am always looking for opportunities to connect with like-minded individuals and contribute to meaningful projects.<br>
 
-
+<a href="https://myportfolio-puce-ten.vercel.app/" label="Portfolio"></a>
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/shreetimohapatra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreeti-mohapatra-ba8715252) 
 
