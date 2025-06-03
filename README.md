@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a junior pursuing B.Tech. in Information Technology.<br><br>Focusing on upskilling myself with the latest technology advancements, I am dedicated to continuous learning.<br><br>Proficient in MERN stack development, I specialize in building scalable and robust solutions. Additionally, I am passionate about UI/UX designing and excel at crafting intuitive user experiences for both web and mobile applications.<br><br>Currently, I am actively exploring Data Structures and Algorithms to enhance my problem-solving skills and deepen my understanding of CS fundamentals.<br><br>Eager to engage in collaborations and open-source contributions, I am always looking for opportunities to connect with like-minded individuals and contribute to meaningful projects.</p>
+<p align="left">I am a senior pursuing B.Tech. in Information Technology.<br><br>Focusing on upskilling myself with the latest technology advancements, I am dedicated to continuous learning.<br><br>Proficient in MERN stack development, I specialize in building scalable and robust solutions. Additionally, I am passionate about UI/UX designing and excel at crafting intuitive user experiences for both web and mobile applications.<br><br>Currently, I am actively exploring Data Structures and Algorithms to enhance my problem-solving skills and deepen my understanding of CS fundamentals.<br><br>Eager to engage in collaborations and open-source contributions, I am always looking for opportunities to connect with like-minded individuals and contribute to meaningful projects.</p>
 
 ###
 
