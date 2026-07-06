@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I’m [**Shreeti**](https://shreetimohapatraportfolio.vercel.app/), a full stack developer and product designer based in India.
+I’m [**Shreeti**](https://shreetimohapatraportfolio.vercel.app/), a software engineer and product designer based in India.
 
 I turn clean designs into fast, accessible frontends and enjoy building tools that feel effortless to use.
 
