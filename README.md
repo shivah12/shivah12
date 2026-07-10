@@ -1,11 +1,75 @@
-### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
+<div align="center">
 
-I’m [**Shreeti**](https://shreetimohapatraportfolio.vercel.app/), a software engineer and product designer based in India.
+</div>
 
-I turn clean designs into fast, accessible frontends and enjoy building tools that feel effortless to use.
+<br>
 
-When I’m not deep in code or obsessing over design systems, I’m likely [**writing**](https://medium.com/@shreeti.mohapatra), watching movies, or exploring something offbeat in tech. I also love sharing what I learn and how I build—across dev logs, design posts, or just raw ideas through my linkedin and behance accounts.
+<table>
+<tr>
+<td width="180" align="center">
 
-Currently open to remote opportunities in full-stack/product engineering or UI/UX roles.
+```
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⣿⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣈⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⡁⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⣴⣤⡀⠀⠀⠀⠀⣭⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⢸⡀⠈⠳⣄⠀⠀⠼⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⢠⠀⠀⠀⢳⠀⠀⠈⠢⡀⠶⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠉⢻⠉⢀⠀⠀⢣⠀⠀⠀⠈⢼⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠺⠃⠀⠀⠡⠀⠀⠀⣸⠐⡀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠱⡀⠀⣿⡀⢈⡄⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⣀⣹⣾⣿⣷⣏⣀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠉⠉⠉⠉⠙⠛⢻⣿⣶⣿⡟⠛⠋⠉⠉⠉⠉⠁⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠞⠹⣿⢏⠳⡄⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⠀⠢⠀⠀⠀⠰⡧⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⡀⢸⠀⠀⠡⡀⠀⠀⠀⠤⣾⠤
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢬⠀⠀⠀⠱⡀⠀⠀⠀⠘⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠑⢄⠀⠀⢣⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠶⠀⠀⠓⢤⣀⡇⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠶⠀⠀⠀⠀⠈⠁⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣛⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⡁⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢩⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⣤⣿⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡻⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+```
 
-→ [LinkedIn](https://linkedin.com/in/shreeti-mohapatra-ba8715252)
+</td>
+<td>
+
+```
+shivah12@github
+───────────────
+OS: Final-Year IT, VSSUT Burla
+Origin: MERN Stack + UI/UX Design
+Uptime: pivoting to Data Eng, 8 months
+Shell: Python / SQL / dbt
+
+Skill.Languages: Python, SQL, JavaScript, TypeScript
+Skill.Data: dbt, DuckDB, FastAPI
+Skill.Tools: Docker, Git, Redis
+Skill.Web: React, Node.js, Express, MongoDB
+
+Focus.Primary: Data Engineering
+Focus.Secondary: DevOps
+Focus.SideQuest: UI/UX Freelancing
+
+Contact.GitHub: github.com/shivah12
+Contact.LinkedIn: https://www.linkedin.com/in/shreeti-mohapatra/
+Contact.Portfolio: https://shreetimohapatraportfolio.vercel.app/
+
+GitHub Stats
+Repos.Featured: dbt-vitals, crypto-pipeline, hmda-fair-lending-pipeline, api-buddy, d12-ui
+Packages: dbt-vitals (PyPI)
+```
+
+</td>
+</tr>
+</table>
+
+
+
+<br>
+
+
